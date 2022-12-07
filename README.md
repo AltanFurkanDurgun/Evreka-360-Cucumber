@@ -1,7 +1,8 @@
 # Evreka-360-Cucumber
 
 DOWNLOAD
- intellij  İDEA
+ 
+intellij  İDEA
 https://www.jetbrains.com/idea/download/#section=mac
 
 JDK 17.0.5
@@ -19,6 +20,7 @@ https://youtu.be/j0OnSAP-KtU
 
 
 RUNNER
+
 mvn clean verify -Dcucumber.filter.tags="@inbound"
 
 You can use this command in terminal for run test.
